@@ -35,7 +35,7 @@
   "deprecated": false,
   "description": "Full featured Promises/A+ implementation with exceptionally good performance",
   "devDependencies": {
-    "acorn": "~0.6.0",
+    "acorn": "~7.1.1",
     "baconjs": "^0.7.43",
     "bluebird": "^2.9.2",
     "body-parser": "^1.10.2",
